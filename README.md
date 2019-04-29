@@ -10,6 +10,7 @@
 ## JS
 
 ## VUE
+[深入看看 vue-router](https://github.com/mario56/blog/issues/2)
 
 ## Angular
 
