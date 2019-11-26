@@ -17,6 +17,6 @@
 ## CSS
 
 ## 认证 & 授权
-[oauth2](https://github.com/mario56/blog/issues/3)
+[oauth2](https://github.com/mario56/blog/blob/master/blog/oauth2.md)
 
-[oidc](https://github.com/mario56/blog/issues/4)
+[oidc](https://github.com/mario56/blog/blob/master/blog/oidc.md)
